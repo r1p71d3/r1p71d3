@@ -1,5 +1,12 @@
-### Hi there 👋
+### Dmitrii Zakharov
+Columbia University Engineering '23
 
+Hello there! I am a Computer Science student at Columbia, graduating in May 2023. I've worked on engineering data pipeliens, creating intelligent agents for games, building NLP models, and many other cool projects. Proficient in Python with a lot of experience in C/C++, Java, and SQL.
+I also do some competitive programming as a member of one of the Columbia ICPC teams.
+
+**Fun fact:** my bucket list includes participating in a chessboxing event!
+
+![Alt Text](https://media.giphy.com/media/3o7btXnOjI9ZJfWpi0/giphy.gif)
 <!--
 **r1p71d3/r1p71d3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +21,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
