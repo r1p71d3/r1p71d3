@@ -1,7 +1,7 @@
 ### Dmitrii Zakharov
 Columbia University Engineering BSCS '23 & MSCS 24
 
-Hello there! I am a CS Master's student at Columbia graduating in December 2024 and I hold a BSCS degree from there as well. I've worked on engineering data pipelines, creating intelligent agents for games, building NLP models, and many other cool projects. Proficient in Python with a lot of experience in C/C++, Java, and SQL.
+Hello there! I am a CS Master's student at Columbia University graduating in December 2024 and I hold a BSCS degree from there as well. I've worked on engineering data pipelines, creating intelligent agents for games, building NLP models, and many other cool projects. Proficient in Python with a lot of experience in C/C++, Java, and SQL.
 I also do some competitive programming as a member of one of the Columbia ICPC teams.
 
 **Fun fact:** my bucket list includes participating in a chessboxing event!
